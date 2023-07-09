@@ -9,11 +9,6 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : simple site
-author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://kbroman.github.io/simple_site
